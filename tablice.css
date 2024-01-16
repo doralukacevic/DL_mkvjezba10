@@ -7,7 +7,7 @@ body {
 	justify-content: center;
 	align-items: center;
     }
-}
+
 
 .center-content {
       text-align: center;
@@ -332,5 +332,5 @@ audio {
     transform: perspective(800px) rotateY(0deg); 
   }
 }
-
+}
 
